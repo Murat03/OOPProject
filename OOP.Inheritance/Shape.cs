@@ -14,7 +14,7 @@ namespace OOP.Inheritance
         public int Width { get; set; }
         public int Height { get; set; }
 
-        public void Draw()
+        public virtual void Draw()
         {
             Console.WriteLine("Base class drawing task...");
         }
