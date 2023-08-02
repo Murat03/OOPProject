@@ -2,20 +2,11 @@
 using OOP.Inheritance;
 using OOP.Inheritance.Shapes;
 using OOP.Inheritance.Shapes.Rectangles;
+using System.Runtime.Intrinsics.Arm;
 
-var shapes = new List<Shape>()
-{
-    new Rectangle(),
-    new Triangle(),
-    new Circle(),
-    new Square()
-};
+var s1 = new Rectangle(10, 20);
+Console.WriteLine($"{s1.X}, {s1.Y}");
 
-foreach (var shape in shapes)
-{
-    shape.Draw();
-}
-new Square().Calculate();
 Console.ReadLine();
 
 static void VirtualKeyword()
@@ -35,4 +26,20 @@ static void VirtualKeyword()
     s2.Draw();
 
     new Triangle().Draw();
+}
+static void Polymorphism()
+{
+    var shapes = new List<Shape>()
+    {
+        new Rectangle(),
+        new Triangle(),
+        new Circle(),
+        new Square()
+    };
+
+    foreach (var shape in shapes)
+    {
+        shape.Draw();
+    }
+    new Square().Calculate();
 }
