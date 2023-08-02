@@ -8,5 +8,9 @@ namespace OOP.Inheritance.Shapes.Rectangles
 {
     public class Square : Rectangle
     {
+        new public void Calculate()
+        {
+            Console.WriteLine("Calculated by square.");
+        }
     }
 }
