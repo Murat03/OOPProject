@@ -12,5 +12,9 @@ namespace OOP.Inheritance.Shapes
         {
             Console.WriteLine("Rectangle drawing task...");
         }
+        public void Calculate()
+        {
+            Console.WriteLine("Calculated by rectangle.");
+        }
     }
 }
