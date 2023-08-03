@@ -6,6 +6,9 @@ using System.Runtime.Intrinsics.Arm;
 
 var s1 = new Rectangle(10, 20);
 Console.WriteLine($"{s1.X}, {s1.Y}");
+var s2 = new Triangle(30, 40);
+s1.WorkWithDifferentObjects(s2);
+s1.WorkWithDifferentObjects(2);
 
 Console.ReadLine();
 
