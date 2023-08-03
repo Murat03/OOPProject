@@ -1,0 +1,15 @@
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\bin\Debug\net6.0\OOP.AbstractClassesAndMethods.exe
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\bin\Debug\net6.0\OOP.AbstractClassesAndMethods.deps.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\bin\Debug\net6.0\OOP.AbstractClassesAndMethods.runtimeconfig.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\bin\Debug\net6.0\OOP.AbstractClassesAndMethods.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\bin\Debug\net6.0\OOP.AbstractClassesAndMethods.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\OOP.AbstractClassesAndMethods.csproj.AssemblyReference.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\OOP.AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\OOP.AbstractClassesAndMethods.AssemblyInfoInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\OOP.AbstractClassesAndMethods.AssemblyInfo.cs
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\OOP.AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\OOP.AbstractClassesAndMethods.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\refint\OOP.AbstractClassesAndMethods.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\OOP.AbstractClassesAndMethods.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\OOP.AbstractClassesAndMethods.genruntimeconfig.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.AbstractClassesAndMethods\obj\Debug\net6.0\ref\OOP.AbstractClassesAndMethods.dll
