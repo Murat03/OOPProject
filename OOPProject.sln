@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Inheritance", "OOP.Inhe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.AbstractClassesAndMethods", "OOP.AbstractClassesAndMethods\OOP.AbstractClassesAndMethods.csproj", "{FBFE29AE-CDFB-470B-8F91-D5EBDB5B3EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{10B33B07-768F-4786-A229-9F8C076CA0E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{10B33B07-768F-4786-A229-9F8C076CA0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IFormattable", "OOP.Interfaces.IFormattable\OOP.Interfaces.IFormattable.csproj", "{049B2683-143E-45B4-987B-EB660E2F6796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{10B33B07-768F-4786-A229-9F8C076CA0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10B33B07-768F-4786-A229-9F8C076CA0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10B33B07-768F-4786-A229-9F8C076CA0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049B2683-143E-45B4-987B-EB660E2F6796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049B2683-143E-45B4-987B-EB660E2F6796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049B2683-143E-45B4-987B-EB660E2F6796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049B2683-143E-45B4-987B-EB660E2F6796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

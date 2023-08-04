@@ -1,0 +1,15 @@
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.exe
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.deps.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.runtimeconfig.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\bin\Debug\net6.0\OOP.Interfaces.IFormattable.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.csproj.AssemblyReference.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.AssemblyInfoInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.AssemblyInfo.cs
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\refint\OOP.Interfaces.IFormattable.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\OOP.Interfaces.IFormattable.genruntimeconfig.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IFormattable\obj\Debug\net6.0\ref\OOP.Interfaces.IFormattable.dll
