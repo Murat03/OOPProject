@@ -1,0 +1,15 @@
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\bin\Debug\net6.0\OOP.Interfaces.ICloneableApp.exe
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\bin\Debug\net6.0\OOP.Interfaces.ICloneableApp.deps.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\bin\Debug\net6.0\OOP.Interfaces.ICloneableApp.runtimeconfig.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\bin\Debug\net6.0\OOP.Interfaces.ICloneableApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\bin\Debug\net6.0\OOP.Interfaces.ICloneableApp.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\OOP.Interfaces.ICloneableApp.csproj.AssemblyReference.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\OOP.Interfaces.ICloneableApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\OOP.Interfaces.ICloneableApp.AssemblyInfoInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\OOP.Interfaces.ICloneableApp.AssemblyInfo.cs
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\OOP.Interfaces.ICloneableApp.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\OOP.Interfaces.ICloneableApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\refint\OOP.Interfaces.ICloneableApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\OOP.Interfaces.ICloneableApp.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\OOP.Interfaces.ICloneableApp.genruntimeconfig.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.ICloneableApp\obj\Debug\net6.0\ref\OOP.Interfaces.ICloneableApp.dll
