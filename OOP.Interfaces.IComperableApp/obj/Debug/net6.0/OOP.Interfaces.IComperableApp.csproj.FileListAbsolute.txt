@@ -1,0 +1,15 @@
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\bin\Debug\net6.0\OOP.Interfaces.IComperableApp.exe
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\bin\Debug\net6.0\OOP.Interfaces.IComperableApp.deps.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\bin\Debug\net6.0\OOP.Interfaces.IComperableApp.runtimeconfig.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\bin\Debug\net6.0\OOP.Interfaces.IComperableApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\bin\Debug\net6.0\OOP.Interfaces.IComperableApp.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\OOP.Interfaces.IComperableApp.csproj.AssemblyReference.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\OOP.Interfaces.IComperableApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\OOP.Interfaces.IComperableApp.AssemblyInfoInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\OOP.Interfaces.IComperableApp.AssemblyInfo.cs
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\OOP.Interfaces.IComperableApp.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\OOP.Interfaces.IComperableApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\refint\OOP.Interfaces.IComperableApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\OOP.Interfaces.IComperableApp.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\OOP.Interfaces.IComperableApp.genruntimeconfig.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.IComperableApp\obj\Debug\net6.0\ref\OOP.Interfaces.IComperableApp.dll
