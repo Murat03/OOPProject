@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.AbstractClassesAndMetho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{10B33B07-768F-4786-A229-9F8C076CA0E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IFormattable", "OOP.Interfaces.IFormattable\OOP.Interfaces.IFormattable.csproj", "{049B2683-143E-45B4-987B-EB660E2F6796}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IFormattable", "OOP.Interfaces.IFormattable\OOP.Interfaces.IFormattable.csproj", "{049B2683-143E-45B4-987B-EB660E2F6796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.ICloneableApp", "OOP.Interfaces.ICloneableApp\OOP.Interfaces.ICloneableApp.csproj", "{62334356-7E59-4CFD-ABCE-F3645264DCA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.ICloneableApp", "OOP.Interfaces.ICloneableApp\OOP.Interfaces.ICloneableApp.csproj", "{62334356-7E59-4CFD-ABCE-F3645264DCA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IComperableApp", "OOP.Interfaces.IComperableApp\OOP.Interfaces.IComperableApp.csproj", "{4ED88651-C76F-4C7F-8581-31BFA9EEAE8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP.Interfaces.IComperableApp", "OOP.Interfaces.IComperableApp\OOP.Interfaces.IComperableApp.csproj", "{4ED88651-C76F-4C7F-8581-31BFA9EEAE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.Interfaces.IComparable_T", "OOP.Interfaces.IComparable_T\OOP.Interfaces.IComparable_T.csproj", "{B847BDE4-CC54-41A3-AC68-69C49268EE9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4ED88651-C76F-4C7F-8581-31BFA9EEAE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ED88651-C76F-4C7F-8581-31BFA9EEAE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ED88651-C76F-4C7F-8581-31BFA9EEAE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B847BDE4-CC54-41A3-AC68-69C49268EE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B847BDE4-CC54-41A3-AC68-69C49268EE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B847BDE4-CC54-41A3-AC68-69C49268EE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B847BDE4-CC54-41A3-AC68-69C49268EE9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
