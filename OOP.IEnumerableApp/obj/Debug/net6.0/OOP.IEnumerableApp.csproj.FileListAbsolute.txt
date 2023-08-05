@@ -1,0 +1,15 @@
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\bin\Debug\net6.0\OOP.IEnumerableApp.exe
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\bin\Debug\net6.0\OOP.IEnumerableApp.deps.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\bin\Debug\net6.0\OOP.IEnumerableApp.runtimeconfig.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\bin\Debug\net6.0\OOP.IEnumerableApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\bin\Debug\net6.0\OOP.IEnumerableApp.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\OOP.IEnumerableApp.csproj.AssemblyReference.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\OOP.IEnumerableApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\OOP.IEnumerableApp.AssemblyInfoInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\OOP.IEnumerableApp.AssemblyInfo.cs
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\OOP.IEnumerableApp.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\OOP.IEnumerableApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\refint\OOP.IEnumerableApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\OOP.IEnumerableApp.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\OOP.IEnumerableApp.genruntimeconfig.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.IEnumerableApp\obj\Debug\net6.0\ref\OOP.IEnumerableApp.dll

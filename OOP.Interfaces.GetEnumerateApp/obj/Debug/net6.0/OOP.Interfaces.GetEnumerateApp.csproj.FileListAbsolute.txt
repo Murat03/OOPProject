@@ -1,0 +1,15 @@
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\bin\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.exe
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\bin\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.deps.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\bin\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.runtimeconfig.json
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\bin\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\bin\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.csproj.AssemblyReference.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.AssemblyInfoInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.AssemblyInfo.cs
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\refint\OOP.Interfaces.GetEnumerateApp.dll
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.pdb
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\OOP.Interfaces.GetEnumerateApp.genruntimeconfig.cache
+D:\Yazilim\C#\OOP\OOPProject\OOP.Interfaces.GetEnumerateApp\obj\Debug\net6.0\ref\OOP.Interfaces.GetEnumerateApp.dll
